@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-marvel",
+  "version": "0.0.1",
+  "description": "eslint configuration for frontend devs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upendradevsingh/eslint-config-marvel.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-sharable-config"
+  ],
+  "author": "Upendra Dev Singh <upendradevsingh@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upendradevsingh/eslint-config-marvel/issues"
+  },
+  "homepage": "https://github.com/upendradevsingh/eslint-config-marvel#readme",
+  "dependencies": {
+    "babel-eslint": "^8.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
